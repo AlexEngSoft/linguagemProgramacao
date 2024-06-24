@@ -5,8 +5,8 @@ from Mammal import Mammal
 
 class Gato(Mammal):
     def __init__(self):
-        self.raça = None
-        self.pelo_rabo = None
+        self.bred = None
+        self.tail_length = None
 
     def tipo_rabo(self, ):
         pass

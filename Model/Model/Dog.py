@@ -5,5 +5,5 @@ from Mammal import Mammal
 
 class Dog(Mammal):
     def __init__(self):
-        self.raça = None
+        self.bred = None
 

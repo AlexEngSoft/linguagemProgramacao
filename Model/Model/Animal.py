@@ -19,6 +19,6 @@ class Animal(Class3):
     def move_z(self, ):
         pass
 
-    def __init__(self, age, height, weight, position):
+    def __init__(self, self, age, height, weight, position):
         pass
 
